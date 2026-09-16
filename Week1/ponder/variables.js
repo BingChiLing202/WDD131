@@ -26,6 +26,8 @@ if(age == 22) {
     const favoriteColor = 'blue';
     let name = 'Dr Java';
     console.log(name);
+
+    
 }
 
 console.log(name);
